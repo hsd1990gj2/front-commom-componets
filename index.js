@@ -1,1 +1,5 @@
-import utils from './lib/utils.js'
+export default {
+    add(a, b){
+        return a+b;
+    }
+}
