@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaa5430f-e2f4-498c-99fc-59d55f1ade19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +34,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1mlpvugHSoV9klR3gkkCjL82pkf" />
   <component name="ProjectViewState">
@@ -43,15 +53,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.20" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -68,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576551551762</updated>
       <workItem from="1576551553111" duration="2307000" />
-      <workItem from="1610078269121" duration="161000" />
+      <workItem from="1610078269121" duration="14809000" />
     </task>
     <servers />
   </component>
@@ -85,5 +103,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1610360859294">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="208" key="GridCell.Tab.0.bottom/0.23.1440.831/1440.23.1920.1057@0.23.1440.831" timestamp="1610360859294" />
+    <state width="1419" height="208" key="GridCell.Tab.0.center" timestamp="1610360859293">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="208" key="GridCell.Tab.0.center/0.23.1440.831/1440.23.1920.1057@0.23.1440.831" timestamp="1610360859293" />
+    <state width="1419" height="208" key="GridCell.Tab.0.left" timestamp="1610360859293">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="208" key="GridCell.Tab.0.left/0.23.1440.831/1440.23.1920.1057@0.23.1440.831" timestamp="1610360859293" />
+    <state width="1419" height="208" key="GridCell.Tab.0.right" timestamp="1610360859293">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="208" key="GridCell.Tab.0.right/0.23.1440.831/1440.23.1920.1057@0.23.1440.831" timestamp="1610360859293" />
+    <state x="478" y="158" key="RollbackChangesDialog" timestamp="1610361217146">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="478" y="158" key="RollbackChangesDialog/0.23.1440.831/1440.23.1920.1057@0.23.1440.831" timestamp="1610361217146" />
+    <state x="252" y="88" key="SettingsEditor" timestamp="1610364573851">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="252" y="88" key="SettingsEditor/0.23.1440.833/1440.23.1920.1057@0.23.1440.833" timestamp="1610364573851" />
   </component>
 </project>
