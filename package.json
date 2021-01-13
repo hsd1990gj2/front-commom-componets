@@ -16,8 +16,7 @@
     "url": "https://github.com/hsd1990gj2/front-commom-componets/issues"
   },
   "homepage": "https://github.com/hsd1990gj2/front-commom-componets#readme",
-  "devDependencies": {
+  "dependencies": {
     "lodash-es": "^4.17.20"
-  },
-  "dependencies": {}
+  }
 }
