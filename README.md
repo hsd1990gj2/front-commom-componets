@@ -1,4 +1,8 @@
 ## Install
 ```
-npm
+npm install ido-share
+``` 
+## Keywords
+```
+React
 ``` 
